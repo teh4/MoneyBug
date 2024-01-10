@@ -96,14 +96,31 @@
 </details>
 <br>
 
-
-
 ## 📈 ERD
 <details>
   <summary><b>본문 확인 (👈 Click)</b></summary>
   <div markdown="1">
     <br>
     <img width="976" alt="moneybug_erd" src="https://github.com/teh4/moneybug/assets/131750928/7749c98a-e108-4e68-ad5a-d846dedfbf82">
+  </div>
+</details>
+<br>
+
+## 🤼 협업 방식
+<details>
+  <summary><b>본문 확인 (👈 Click)</b></summary>
+  <div markdown="1">
+    <br>
+    저희 팀은 협업 툴로 'Loop'를 이용하였습니다.
+    <br>
+    <br><img width="1396" alt="스크린샷 2024-01-10 오후 6 28 09" src="https://github.com/teh4/moneybug/assets/131750928/b7a967af-5d5a-4edb-b43a-30739bf11bd9">
+    <br><img width="1437" alt="스크린샷 2024-01-10 오후 6 17 07" src="https://github.com/teh4/moneybug/assets/131750928/a4030723-0468-4a26-b1dc-0720da557090">
+    <br><img width="679" alt="스크린샷 2024-01-10 오후 6 23 25" src="https://github.com/teh4/moneybug/assets/131750928/f2d6e614-9465-438a-8810-bdd40ff7f041">
+    <br><img width="1027" alt="스크린샷 2024-01-10 오후 6 23 11" src="https://github.com/teh4/moneybug/assets/131750928/9968c0bb-471e-4c17-bc7f-67911a90b058">
+    <br>
+    <br> Loop를 통해 팀 규칙 및 공지사항을 메인에 띄워 팀 개발에 충돌이 없도록 숙지하였습니다.
+    <br> 각자 맡은 기능에 대해 주요 정의서에 따라 우선 순위, 마감 기한 설정을 하는 등 팀원들의 개발 진행 속도를 체크할 수 있었습니다.
+    <br> 또한 매 회의마다 녹화 영상 공유 및 회의에 대한 회고, 각 주차별 각자 기능 개발에 대한 회고 내용 등을 업로드 하기에 용이했습니다.
   </div>
 </details>
 <br>
