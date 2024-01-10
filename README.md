@@ -99,6 +99,11 @@
 
 
 ## 📈 ERD
-
-<br>
+<details>
+  <summary><b>본문 확인 (👈 Click)</b></summary>
+  <div markdown="1">
+    <br>
+    <img width="976" alt="moneybug_erd" src="https://github.com/teh4/moneybug/assets/131750928/7749c98a-e108-4e68-ad5a-d846dedfbf82">
+  </div>
+</details>
 <br>
