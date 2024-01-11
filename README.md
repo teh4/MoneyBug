@@ -1,6 +1,37 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CFF3DC&fontColor=3E3325&height=180&section=header&text=돈벌레%20친구들&fontSize=52&fontAlign=20&fontAlignY=35&desc=나의%20돈%20관리%20웹사이트&descSize=30&descAlign=45&descAlignY=42&descSize=60" />
 
 # 🌐 웹사이트 👉 [MoneyBug](https://www.moneybug.site/moneybug/main.jsp)
+### 개발기간 
+ - 2023.07.27 ~ 2023.09.07 (5주 + 프로트엔드 1주)
+
+### Languages
+<div>
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=white" />
+  <br>
+  </div>
+
+### Technologies
+<div>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+	<img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
+    <br>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" />
+	<img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white" />
+</div>
+<br><br>
+
 
 # 📄 목차
 - 개요
@@ -14,6 +45,7 @@
 - 프로젝트 종료 이후 리팩토링
 
 ***
+<br>
 
 ## 🚶🏻‍♂️ 개요
 <details>
@@ -149,6 +181,13 @@
     화상 통화 채팅 'zoom'을 통해 회의 및 개발을 동시적으로 진행하였습니다.
     <br> 질문이 있거나 코드에 대해 궁금한 점이 있을 때 그때그때 구두로 질문하며 빠르게 해결했습니다.
   </div>
+  <br>
+
+### slack
+  <div markdown="1">
+    'slack' 워크 스페이스를 통해 Loop 또는 Git에 업로드하기 애매한 파일 등 빠르게 공유했습니다.
+  </div>
+  
 </details>
 <br>
 
