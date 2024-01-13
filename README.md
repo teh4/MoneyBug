@@ -2,7 +2,7 @@
 
 # 🌐 웹사이트 👉 [MoneyBug](https://www.moneybug.site/moneybug/main.jsp)
 ### 개발기간 
- - 2023.07.27 ~ 2023.09.07 (5주 + 프로트엔드 1주)
+ - 2023.07.27 ~ 2023.09.07 (5주 + 프론트엔드 1주)
 
 ### Languages
 <div>
@@ -17,11 +17,12 @@
 <div>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" />
 	<img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
     <br>
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white" />
@@ -276,8 +277,25 @@
 ## 🔬 성과 및 회고
 <details>
   <summary><b>본문 확인 (👈 Click)</b></summary>
-  <div markdown="1">
-    
-  </div>
+<br> 성과 및 회고는 이 프로젝트에 대한 강태헌, 저만의 개인적인 의견입니다.<br>
+<br>
+ 
+## 프로젝트의 성과
+ 이번 프로젝트는 저의 첫 프로젝트이자 팀으로 같이 진행한 프로젝트였습니다.<br>
+ 기획 단계부터 마지막 프론트엔드 작업까지 팀으로서 회의를 최소 주 5회는 진행을 해서 의견 충돌은 심각하게 일어나지 않아서 팀 프로젝트로서 처음 치고 괜찮은 프로젝트였던 것 같습니다.<br>
+ 팀원 구성이 전체적으로 백엔드 담당 팀원들이 많다 보니 프론트엔드 개발자를 프로젝트 돌입 이전에 모집을 해야 할 것 같다고 느꼈습니다.<br>
+ 부트 캠프로 진행하는 프로젝트다 보니 배운 점을 많이 녹아내려고 했고, 마지막으로 사이트 배포까지 마무리할 수 있어서 프로젝트 최우수팀으로 선정되었습니다.<br>
+ <br>
+ <br>
+ 팀으로서 성과도 좋았던 프로젝트였고, **비전공자인 저에게도 많은 경험과 개발자로서 성장**할 수 있게 된 프로젝트였습니다.<br>
+ 프로젝트를 시작하기 앞서 저는 비전공자로 프로젝트의 경험도 없이 기초적인 Spring에 대해서만 알고 있는 상태였습니다.<br>
+ 프로젝트에서 게시판(게시글, 댓글, 이미지 첨부 기능)을 스스로 완벽하게 구현할 수 있다면 백엔드 개발에 대한 로직과 흐름을 알 수 있지 않을까? 하고 팀 회의에서 게시판 기능을 맡고 싶다고 어필했습니다. <br>
+ 게시판 CRUD는 할 수 있는 상태에서 댓글 CRUD는 어렵지 않게 구현할 수 있었습니다. <br>
+ 하지만 댓글의 답글 달기 및 이미지 첨부 기능 구현은 예상보다 기능 개발이 막혔고, 답글의 스키마 로직과 첨부에 대한 심볼릭 링크에 대해 공부를 한 만큼 각 데드라인보다 늦게 구현을 완료했습니다. <br>
+ 답글의 스키마 로직을 스스로 공부한 것이 팀 프로젝트를 진행하는 동안 가장 인상 깊었던 부분이었습니다. <br>
+ 답글의 스키마 로직을 이해하니 게시판 기능 개발의 MVC2 패턴에 대한 이해도가 더욱 올라갔습니다. <br>
+ <br>
+ 
+ 
 </details>
 <br>
