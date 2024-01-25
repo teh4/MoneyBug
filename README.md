@@ -156,20 +156,20 @@
   <div markdown="1">
     저희 팀은 협업 툴로 'Loop'를 이용하였습니다.
     <br>
-    <br><img width="1396" alt="스크린샷 2024-01-10 오후 6 28 09" src="https://github.com/teh4/moneybug/assets/131750928/b7a967af-5d5a-4edb-b43a-30739bf11bd9">
+    <br><img width="718" alt="스크린샷 2024-01-10 오후 6 28 09" src="https://github.com/teh4/moneybug/assets/131750928/b7a967af-5d5a-4edb-b43a-30739bf11bd9">
     <br>
   </div>
   
   ### Loop - 개발 스케줄 관리
   <div markdown="1">
-    <img width="1437" alt="스크린샷 2024-01-10 오후 6 17 07" src="https://github.com/teh4/moneybug/assets/131750928/a4030723-0468-4a26-b1dc-0720da557090"><br>
+    <img width="718" alt="스크린샷 2024-01-10 오후 6 17 07" src="https://github.com/teh4/moneybug/assets/131750928/a4030723-0468-4a26-b1dc-0720da557090"><br>
     
   </div>
   
   ### Loop - 회의, 기능 개발에 대한 회고
   <div markdown="1">
-   <img width="679" alt="스크린샷 2024-01-10 오후 6 23 25" src="https://github.com/teh4/moneybug/assets/131750928/f2d6e614-9465-438a-8810-bdd40ff7f041"><br>
-  <img width="1035" alt="스크린샷 2024-01-10 오후 8 36 28" src="https://github.com/teh4/moneybug/assets/131750928/45f35c88-161b-4e27-afca-27c380ae28e7">
+   <img width="718" alt="스크린샷 2024-01-10 오후 6 23 25" src="https://github.com/teh4/moneybug/assets/131750928/f2d6e614-9465-438a-8810-bdd40ff7f041"><br>
+  <img width="718" alt="스크린샷 2024-01-10 오후 8 36 28" src="https://github.com/teh4/moneybug/assets/131750928/45f35c88-161b-4e27-afca-27c380ae28e7">
     <br>
     <br> Loop를 통해 팀 규칙 및 공지사항을 메인에 띄워 팀 개발에 충돌이 없도록 숙지하였습니다.
     <br> 각자 맡은 기능에 대해 주요 정의서에 따라 우선 순위, 마감 기한 설정을 하는 등 팀원들의 개발 진행 속도를 체크할 수 있었습니다.
@@ -224,7 +224,7 @@
   저는 단순 CRUD 뿐만이 아닌 다양한 기능이 있는 게시판 자체를 처음부터 끝까지 혼자서 개발해보고 싶어 각자 어떤 기능 개발을 맡고 싶은지 논의하는 회의에서 커뮤니티 개발을 맡고 싶다고 어필을 해서 담당하게 됐습니다.
   <br>
   <br>
-  <img width="728" alt="스크린샷 2024-01-11 오후 7 50 32" src="https://github.com/teh4/moneybug/assets/131750928/cad6fb0b-0261-4be3-acc3-da09b9df5c2f">
+  <img width="718" alt="스크린샷 2024-01-11 오후 7 50 32" src="https://github.com/teh4/moneybug/assets/131750928/cad6fb0b-0261-4be3-acc3-da09b9df5c2f">
   <br>
   <br>
   커뮤니티 메인 페이지는 상단부터 카테고리 게시판으로 이동할 수 있는 태그 버튼들이 있고 그 아래에는 일간, 주간 인기글 TOP 3를 볼 수 있습니다.
@@ -242,8 +242,8 @@
   카테고리는 '공과금', '교통', '데이트', '생활꿀팁', '식비', '일상', '플렉스' 7가지로 나누었으며 게시글을 작성할 때 말머리에 카테고리를 표기하도록 했습니다. 
   <br>
   <br>
-  <img width="1022" alt="스크린샷 2024-01-11 오후 8 10 21" src="https://github.com/teh4/moneybug/assets/131750928/d924804f-6765-4f82-9d43-fd6683245734">
-<img width="1024" alt="스크린샷 2024-01-11 오후 8 10 42" src="https://github.com/teh4/moneybug/assets/131750928/401d97e5-bf3d-409f-947d-74810ade3005">
+  <img width="718" alt="스크린샷 2024-01-11 오후 8 10 21" src="https://github.com/teh4/moneybug/assets/131750928/d924804f-6765-4f82-9d43-fd6683245734">
+<img width="718" alt="스크린샷 2024-01-11 오후 8 10 42" src="https://github.com/teh4/moneybug/assets/131750928/401d97e5-bf3d-409f-947d-74810ade3005">
 <br><br>
 각 태그를 누르면 해당 태그의 말머리 게시글만 보이도록 페이지네이션 했습니다.<br>
 각 태그 게시판에서 검색을 하면 말머리가 해당 태그인 게시글만 검색되도록 페이지네이션 했습니다.
@@ -253,8 +253,8 @@
   ## 커뮤니티 - 게시글 CRUD
   <br>
   게시글 작성은 커뮤니티 페이지에서 '글 쓰기' 버튼을 누르면 글 작성 페이지로 이동하게 됩니다. 이 때 비로그인 상태이면 로그인 페이지로 이동하게 됩니다.<br><br>
-  <img width="583" alt="스크린샷 2024-01-11 오후 8 42 42" src="https://github.com/teh4/moneybug/assets/131750928/b888f347-0342-4e02-be84-f2bb347b0d39">
-<img width="969" alt="스크린샷 2024-01-11 오후 8 43 04" src="https://github.com/teh4/moneybug/assets/131750928/b2dd6a56-bd31-4cb3-93ce-9f738e878fd2">
+  <img width="718" alt="스크린샷 2024-01-11 오후 8 42 42" src="https://github.com/teh4/moneybug/assets/131750928/b888f347-0342-4e02-be84-f2bb347b0d39">
+<img width="718" alt="스크린샷 2024-01-11 오후 8 43 04" src="https://github.com/teh4/moneybug/assets/131750928/b2dd6a56-bd31-4cb3-93ce-9f738e878fd2">
 <br><br>
 게시글 작성은 이미지를 첨부할 수 있고, 이미지는 사이즈 조절되어 게시글에 첨부 됩니다.<br>
 심벌릭 링크를 통해 이미지를 첨부했습니다. <br>
@@ -265,12 +265,18 @@
 <br>
 댓글 작성은 로그인 상태로 게시글 읽기에서 바로 등록이 가능합니다. <br>
 비로그인 상태로 댓글 작성을 시도하면 게시글 작성과 마찬가지로 로그인 페이지로 이동하게 됩니다.<br><br>
-<img width="870" alt="스크린샷 2024-01-11 오후 9 14 16" src="https://github.com/teh4/moneybug/assets/131750928/b73eebdf-fa3a-4de5-be7a-e09a4b79b4a2">
+<img width="718" alt="스크린샷 2024-01-11 오후 9 14 16" src="https://github.com/teh4/moneybug/assets/131750928/b73eebdf-fa3a-4de5-be7a-e09a4b79b4a2">
 <br><br>
 댓글은 작성 기간이 오름차순으로 정렬 되도록 페이지네이션 했습니다.<br>
 등록된 댓글에 답글을 달 수 있는데, 답글은 일반 댓글과 depth를 달리 하였고, 답글을 단 원댓글의 작성자를 언급하며(@) 답글이 작성되게 로직을 구성하였습니다. <br>
-댓글과 답글 수정 및 삭제는 게시글 수정 및 삭제와 동일한 로직이며, 한 가지 차이는 답글이 달린 원댓글을 삭제를 할 경우 '삭제된 댓글입니다'로 답글의 원댓글이 있었다는 것을 표기 하였습니다.
+댓글과 답글 수정 및 삭제는 게시글 수정 및 삭제와 동일한 로직이며, 한 가지 차이는 답글이 달린 원댓글을 삭제를 할 경우 '삭제된 댓글입니다'로 답글의 원댓글이 있었다는 것을 표기 하였습니다.<br><br>
+
+## 커뮤니티 - DB
 <br>
+DBeaver 툴을 통한 외래키를 설정했습니다. <br>
+회원 탈퇴시 게시글ㆍ댓글 자동 삭제 와 회원 닉네임 수정시 기존 게시글ㆍ댓글의 작성자 자동 수정. <br>(user_member 테이블의 USER_NICKNAME 과 tag_boardㆍtag_reply 테이블의 WRITER_ID 외래키 CASCADE 연결)<br>
+게시글 삭제시 게시글에 달린 댓글 전부 삭제. (tag_board 테이블의 SEQ 와 tag_reply 테이블의 BOARD_SEQ 외래키 CASCADE 연결)<br><br>
+<img width="718" alt="스크린샷 2024-01-26 오전 12 25 54" src="https://github.com/teh4/moneybug/assets/131750928/871a6de8-59a3-4587-973b-9a8aef0bda60"><br><br>
 </details>
 <br>
 
