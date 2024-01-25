@@ -36,14 +36,14 @@
 
 # 📄 목차
 - [개요](#overview)
-- Problem
-- Idea / Solution
-- ERD
-- 협업 방식
-- 팀 개발 문화
-- __내가 맡은 기능 개발__
-- 성과 및 회고
-- 프로젝트 종료 이후 리팩토링
+- [Problem](#problem)
+- [Idea / Solution](#idea_solution)
+- [ERD](#erd)
+- [협업 방식](#communication)
+- [팀 개발 문화](#team_rules)
+- [__내가 맡은 기능 개발__](#kangtaeheon_dev)
+- [성과 및 회고](#review)
+
 
 ***
 <br>
@@ -60,7 +60,7 @@
 </details>
 <br>
 
-## 🤔 Problem
+## 🤔 Problem <a name="problem"></a>
 <details>
   <summary><b>본문 확인 (👈 Click)</b></summary>
   <div markdown="1">
@@ -81,7 +81,7 @@
 
 <br>
 
-## 🤓 Idea / Solution
+## 🤓 Idea / Solution <a name="idea_solution"></a>
 <details>
   <summary><b>본문 확인 (👈 Click)</b></summary>
   <br>
@@ -136,7 +136,7 @@
 </details>
 <br>
 
-## 📈 ERD
+## 📈 ERD <a name="erd"></a>
 <details>
   <summary><b>본문 확인 (👈 Click)</b></summary>
   <div markdown="1">
@@ -146,7 +146,7 @@
 </details>
 <br>
 
-## 🤼 협업 방식
+## 🤼 협업 방식 <a name="communication"></a>
 
 <details>
   <summary><b>본문 확인 (👈 Click)</b></summary>
@@ -192,7 +192,7 @@
 </details>
 <br>
 
-## 🔛 팀 개발 문화
+## 🔛 팀 개발 문화 <a name="team_rules"></a>
 
 <details>
   <summary><b>본문 확인 (👈 Click)</b></summary>
@@ -214,7 +214,7 @@
 </details>
 <br>
 
-## 🙋🏻‍♂️ 내가 맡은 기능 개발
+## 🙋🏻‍♂️ 내가 맡은 기능 개발 <a name="kangtaeheon_dev"></a>
 
 <details>
   <summary><b>본문 확인 (👈 Click)</b></summary>
@@ -274,7 +274,7 @@
 </details>
 <br>
 
-## 🔬 성과 및 회고
+## 🔬 성과 및 회고 <a name="review"></a>
 <details>
   <summary><b>본문 확인 (👈 Click)</b></summary>
 <br> 성과 및 회고는 이 프로젝트에 대한 강태헌, 저만의 개인적인 의견입니다.<br>
