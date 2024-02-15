@@ -42,6 +42,7 @@
 - [협업 방식](#communication)
 - [팀 개발 문화](#team_rules)
 - [__내가 맡은 기능 개발__](#kangtaeheon_dev)
+- [왜 이 기술을 사용했는가?](#whyuse)
 - [성과 및 회고](#review)
 
 
@@ -278,6 +279,15 @@ DBeaver 툴을 통한 외래키를 설정했습니다. <br>
 회원 탈퇴시 게시글ㆍ댓글 자동 삭제 와 회원 닉네임 수정시 기존 게시글ㆍ댓글의 작성자 자동 수정. <br>(user_member 테이블의 USER_NICKNAME 과 tag_boardㆍtag_reply 테이블의 WRITER_ID 외래키 CASCADE 연결)<br>
 게시글 삭제시 게시글에 달린 댓글 전부 삭제. (tag_board 테이블의 SEQ 와 tag_reply 테이블의 BOARD_SEQ 외래키 CASCADE 연결)<br><br>
 <img width="718" alt="Community_DB" src="https://github.com/teh4/moneybug/assets/131750928/871a6de8-59a3-4587-973b-9a8aef0bda60"><br><br>
+</details>
+<br>
+
+## ⁉️ 왜 이 기술을 사용했는가? <a name="whyuse"></a>
+<details>
+  <summary><b>본문 확인 (👈 Click)</b></summary>
+  <div markdown="1">
+   
+  </div>
 </details>
 <br>
 
