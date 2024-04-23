@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CFF3DC&fontColor=3E3325&height=180&section=header&text=돈벌레%20친구들&fontSize=52&fontAlign=20&fontAlignY=35&desc=나의%20돈%20관리%20웹사이트&descSize=30&descAlign=45&descAlignY=42&descSize=60" />
 
-# 🌐 웹사이트 👉 [MoneyBug](https://www.moneybug.site/moneybug/main.jsp) (현재 배포 중단 상태입니다.)
+# 🌐 웹사이트 👉 [MoneyBug](https://www.moneybug.site/moneybug/main.jsp) 
+(현재 배포 중단 상태입니다.)
 ### 개발기간 
  - 2023.07.27 ~ 2023.09.07 (백엔드 5주 + 프론트엔드 1주)
 
